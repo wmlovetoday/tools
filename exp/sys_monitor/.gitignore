@@ -1,0 +1,9 @@
+.*
+!.gitignore
+!.clang-format
+!.clang-tidy
+build
+third
+sdk_test
+third_arm
+*.o
